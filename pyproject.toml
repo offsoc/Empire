@@ -15,7 +15,7 @@ packages = [
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 urllib3 = "^2.2.0"
-requests = "^2.31.0"
+requests = "^2.32.2"
 iptools = "^0.7.0"
 macholib = "^1.16.3"
 dropbox = "^11.36.2"
